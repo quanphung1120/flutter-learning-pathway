@@ -1,0 +1,6 @@
+# Only the three Flutter projects are published from this workspace.
+/*
+!/.gitignore
+!/birdle/
+!/wikipedia_reader/
+!/rolodex/
